@@ -33,13 +33,23 @@
 Mode                 LastWriteTime         Length Name
 ----                 -------------         ------ ----
 d-----        09-03-2024     02:24                core
+
 d-----        09-03-2024     02:24                healthcare
+
 d-----        16-03-2024     03:29                model (here the trained model will be stored)
+
 d-----        09-03-2024     02:24                myEnv
+
 -a----        09-03-2024     03:18          28173 Drug Recommendation.ipynb
+
 -a----        11-05-2023     11:20         296332 Drug.csv
+
 -a----        11-05-2023     10:50            666 manage.py
+
 -a----        09-03-2024     02:03          73533 ML Disease Prediction - Smart Doctor.ipynb
+
 -a----        16-03-2024     03:14           1187 readme.md
+
 -a----        11-05-2023     11:20        1370414 Training.csv
+
 10. Open VS code and write a command in terminal which is 'python manage.py runserver'.
